@@ -1,0 +1,28 @@
+﻿<Window x:Class="RulerControlTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:rc="clr-namespace:RulerControl;assembly=RulerControl"
+        Title="MainWindow" Name="mainWindow" Height="600" Width="1000" WindowState="Maximized" ToolTipService.ShowDuration="99999" ToolTipService.IsEnabled="True">
+    <DockPanel>
+        <TextBlock Background="Yellow" Height="30"></TextBlock>
+        <Canvas DockPanel.Dock="Right" Width="900" Name="myCanvas" Background="Turquoise" MouseMove="Window_MouseMove_1"  MouseLeftButtonDown="myCanvas_MouseLeftButtonDown" ToolTipService.ShowDuration="99999" >
+            <rc:RulerControl Height="20" Name="horizontalRuler" Orientation="Horizontal" Width="1000"/>
+            <rc:RulerControl Width="20" Name="verticalRuler" Orientation="Vertical" Height="900"/>
+        </Canvas>
+        <StackPanel DockPanel.Dock="Right" Orientation="Vertical">
+            <Button Content="pointToConvexPolygon" Name="btnPointToConvexPolygon" Margin="10,10,10,10" VerticalAlignment="Top" Click="btnPointToConvexPolygon_Click"/>
+            <Button Margin="10,10,10,10">ordered point list in poligon</Button>
+            <StackPanel Orientation="Horizontal" >
+                <Ellipse Fill="Red" HorizontalAlignment="Left"  Stroke="Red" Height="10" Width="10"  />
+                <TextBlock HorizontalAlignment="Left"  TextWrapping="Wrap" Text="İşlem Yapılacak Point"  />
+            </StackPanel>
+
+            <ScrollViewer ScrollViewer.VerticalScrollBarVisibility="Auto">
+                <ListBox Name="myListBox" Height="400" Margin="10,10,10,10"/>
+            </ScrollViewer>
+            <Button Margin="10,10,10,10">New Animation</Button>
+        </StackPanel>
+    </DockPanel>
+
+
+</Window>

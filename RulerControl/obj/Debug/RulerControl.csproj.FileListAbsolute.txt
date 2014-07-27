@@ -1,0 +1,12 @@
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\bin\Debug\RulerControl.dll
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\bin\Debug\RulerControl.pdb
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\RulerControl.csprojResolveAssemblyReference.cache
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\RulerControl_MarkupCompile.cache
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\RulerControl_MarkupCompile.lref
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\Themes\Generic.baml
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\RulerControl.g.resources
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\RulerControl.Properties.Resources.resources
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\RulerControl.csproj.GenerateResource.Cache
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\RulerControl.dll
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\RulerControl.pdb

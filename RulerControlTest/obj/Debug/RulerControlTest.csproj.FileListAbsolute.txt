@@ -1,0 +1,15 @@
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\bin\Debug\RulerControlTest.exe.config
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\bin\Debug\RulerControlTest.exe
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\bin\Debug\RulerControlTest.pdb
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\bin\Debug\RulerControl.dll
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\bin\Debug\RulerControl.pdb
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\RulerControlTest.csprojResolveAssemblyReference.cache
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\MainWindow.baml
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\MainWindow.g.cs
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\App.g.cs
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\RulerControlTest_MarkupCompile.cache
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\RulerControlTest.g.resources
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\RulerControlTest.Properties.Resources.resources
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\RulerControlTest.csproj.GenerateResource.Cache
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\RulerControlTest.exe
+c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\RulerControlTest.pdb
