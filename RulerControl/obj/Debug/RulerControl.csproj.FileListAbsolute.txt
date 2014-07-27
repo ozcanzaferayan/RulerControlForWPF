@@ -10,3 +10,15 @@ c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerCon
 c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\RulerControl.csproj.GenerateResource.Cache
 c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\RulerControl.dll
 c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControl\obj\Debug\RulerControl.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControl\bin\Debug\RulerControl.dll
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControl\bin\Debug\RulerControl.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControl\obj\Debug\RulerControl.csprojResolveAssemblyReference.cache
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControl\obj\Debug\RulerControl_MarkupCompile.cache
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControl\obj\Debug\RulerControl_MarkupCompile.lref
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControl\obj\Debug\Themes\Generic.baml
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControl\obj\Debug\RulerControl.g.resources
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControl\obj\Debug\RulerControl.Properties.Resources.resources
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControl\obj\Debug\RulerControl.csproj.GenerateResource.Cache
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControl\obj\Debug\RulerControl.dll
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControl\obj\Debug\RulerControl.pdb

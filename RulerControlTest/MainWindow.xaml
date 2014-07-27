@@ -5,7 +5,7 @@
         Title="MainWindow" Name="mainWindow" Height="600" Width="1000" WindowState="Maximized" ToolTipService.ShowDuration="99999" ToolTipService.IsEnabled="True">
     <DockPanel>
         <TextBlock Background="Yellow" Height="30"></TextBlock>
-        <Canvas DockPanel.Dock="Right" Width="900" Name="myCanvas" Background="Turquoise" MouseMove="Window_MouseMove_1"  MouseLeftButtonDown="myCanvas_MouseLeftButtonDown" ToolTipService.ShowDuration="99999" >
+        <Canvas DockPanel.Dock="Right" Width="900" Name="myCanvas" Background="LightGray" MouseMove="Window_MouseMove_1"  MouseLeftButtonDown="myCanvas_MouseLeftButtonDown" ToolTipService.ShowDuration="99999" >
             <rc:RulerControl Height="20" Name="horizontalRuler" Orientation="Horizontal" Width="1000"/>
             <rc:RulerControl Width="20" Name="verticalRuler" Orientation="Vertical" Height="900"/>
         </Canvas>

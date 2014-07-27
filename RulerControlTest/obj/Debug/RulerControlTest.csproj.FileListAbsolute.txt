@@ -13,3 +13,18 @@ c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerCon
 c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\RulerControlTest.csproj.GenerateResource.Cache
 c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\RulerControlTest.exe
 c:\Users\-ZaferAYAN-\Documents\Visual Studio 2012\Projects\RulerControl\RulerControlTest\obj\Debug\RulerControlTest.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\bin\Debug\RulerControlTest.exe.config
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\obj\Debug\RulerControlTest.exe
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\obj\Debug\RulerControlTest.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\bin\Debug\RulerControlTest.exe
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\bin\Debug\RulerControlTest.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\bin\Debug\RulerControl.dll
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\bin\Debug\RulerControl.pdb
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\obj\Debug\RulerControlTest.csprojResolveAssemblyReference.cache
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\obj\Debug\MainWindow.baml
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\obj\Debug\MainWindow.g.cs
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\obj\Debug\App.g.cs
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\obj\Debug\RulerControlTest_MarkupCompile.cache
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\obj\Debug\RulerControlTest.g.resources
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\obj\Debug\RulerControlTest.Properties.Resources.resources
+C:\Users\-ZaferAYAN-\Documents\GitHub\RulerControlForWPF\RulerControlTest\obj\Debug\RulerControlTest.csproj.GenerateResource.Cache
